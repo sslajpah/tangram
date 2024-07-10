@@ -11,11 +11,3 @@
  
  TO DO:
  - add communication with UR robot to send it the desired poses of individual tiles
-  
- author: Sebastjan Slajpah
-  mail: sebastjan.slajpah@fe.uni-lj.si
-  University of Ljubljana
-  Faculty of Electrical Engineering
-  Laboratory of Robotics
-  www.robolab.si
-  June 2024
