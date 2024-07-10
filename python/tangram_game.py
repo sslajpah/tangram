@@ -13,7 +13,7 @@
 #  
 # author: Sebastjan Slajpah
 # mail: sebastjan.slajpah@fe.uni-lj.si
-# Univeristy of Ljubljana, Faculty of Electrical Engineering
+# University of Ljubljana, Faculty of Electrical Engineering
 # Laboratory of Robotics
 # www.robolab.si
 # June 2024
